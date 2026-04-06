@@ -157,7 +157,7 @@ jupyter notebook brca_pathway_analysis.ipynb
 
 ## Connection to Project 1
 
-This project directly continues from Project 1 ([BRCA-DEG-Analysis](https://github.com/hardae/BRCA-DEG-Analysis)), using its output DEGs as input. Together they form a complete transcriptomics → mechanism discovery pipeline.
+This project directly continues from Project 1 ([Breast-cancer-Analysis][https://github.com/hardae/breast-cancer-expression-analysis]), using its output DEGs as input. Together they form a complete transcriptomics → mechanism discovery pipeline.
 
 ---
 
